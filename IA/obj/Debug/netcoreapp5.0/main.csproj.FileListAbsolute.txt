@@ -1,0 +1,16 @@
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.exe
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.deps.json
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.runtimeconfig.json
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.runtimeconfig.dev.json
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.dll
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\ref\main.dll
+C:\Users\Caio Peres\source\repos\IA\IA\bin\Debug\netcoreapp5.0\main.pdb
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.csproj.AssemblyReference.cache
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.AssemblyInfoInputs.cache
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.AssemblyInfo.cs
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.dll
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\ref\main.dll
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.pdb
+C:\Users\Caio Peres\source\repos\IA\IA\obj\Debug\netcoreapp5.0\main.genruntimeconfig.cache

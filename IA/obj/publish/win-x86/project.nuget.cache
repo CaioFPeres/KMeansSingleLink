@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QACyK6zYrzojVrJsItu4sNoLtQupmIhi9EGJhuQ1myNLyrYRJjg3SbA/wumtMvmXdfSOokuKHcUPJTk3dOnIbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio Peres\\source\\repos\\IA\\IA\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.8\\microsoft.netcore.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.8\\microsoft.aspnetcore.app.runtime.win-x86.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
